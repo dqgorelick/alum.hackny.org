@@ -1,0 +1,23 @@
+{
+  "name": "alum.hackny.org",
+  "version": "1.0.0",
+  "description": "A hacky home for all hackny alums",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dqgorelick/alum.hackny.org.git"
+  },
+  "author": "hackNY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dqgorelick/alum.hackny.org/issues"
+  },
+  "homepage": "https://github.com/dqgorelick/alum.hackny.org#readme",
+  "dependencies": {
+    "basic-auth": "^1.0.4",
+    "express": "^4.14.0"
+  }
+}

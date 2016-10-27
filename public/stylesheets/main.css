@@ -1,0 +1,27 @@
+/*
+
+TODO:
+
+move this to sass and add build process if
+this site becomes larger than the README page
+
+dqgorelick 10/27/2016
+
+*/
+
+/* set base font-size for so we can use rem */
+
+body {
+    font-size: 16px;
+    font-family: "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+
+.wrapper {
+    background-color: #F7F7F7;
+    border: 1px solid #ddd;
+    padding: 45px;
+    margin: 50px auto;
+    width: 90%;
+    max-width: 1100px;
+}
